@@ -1,4 +1,3 @@
-# Merging all the code together
 
 import numpy as np
 import random
